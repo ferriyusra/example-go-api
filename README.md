@@ -1,4 +1,4 @@
-# Auth Service
+# Example Go API
 
 This microservice is the API service for Example Go API.
 
