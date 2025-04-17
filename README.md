@@ -54,7 +54,7 @@ We're using [golang-migrate](https://github.com/golang-migrate/migrate) for the 
 Install the package
 
 ```bash
-go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@latest
+go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@v4.17.0
 ```
 
 Run the migration (change the value accordingly)
